@@ -31,6 +31,7 @@ This list is designed to provide resources to help with computational experiment
 - [ArXiv Style](https://github.com/kourgeorge/arxiv-style) - LaTex template for arXiv submissions.
 - [Gemini](https://github.com/anishathalye/gemini) - LaTex theme for scientific posters.
 - [Metropolis](https://github.com/matze/mtheme) - LaTeX template for slides.
+- [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/) - A tool for tidying BibTeX files.
 
 ### Software Licenses
 
