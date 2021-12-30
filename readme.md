@@ -33,10 +33,16 @@ This list is designed to provide resources to help with computational experiment
 - [Metropolis](https://github.com/matze/mtheme) - LaTeX template for slides.
 - [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/) - A tool for tidying BibTeX files.
 
+
+### Publishing Code
+
+- [Tips for Publishing Research Code](https://github.com/paperswithcode/releasing-research-code) - Collated best practices from most popular ML research repositories.
+
 ### Software Licenses
 
 - [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) - An often used permissive software license.
 - [CRAPL](https://matt.might.net/articles/crapl/) - The Community Research and Academic Programming License.
+
 
 
 ## Contribute
