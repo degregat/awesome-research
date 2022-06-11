@@ -10,9 +10,11 @@ This list is designed to provide resources to help with computational experiment
 ## Process
 
 - [How to write a paper](http://www.wisdom.weizmann.ac.il/~/oded/R2/re-writing.pdf)
+- [Keep your experiments separate](https://jessitron.com/2022/06/07/keep-your-experiments-separate/)
 - [Research Taste Exercises](https://colah.github.io/notes/taste/)
 - [The Art of Doing Science and Engineering](https://calhoun.nps.edu/handle/10945/62468)
 - [What Makes a Good Reseach Proposal?](https://tratt.net/laurie/blog/2022/what_makes_a_good_research_proposal.html)
+
 
 ## Software
 
